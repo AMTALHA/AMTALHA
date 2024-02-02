@@ -1,4 +1,4 @@
-https://studio.youtube.com/channel/UCO-gGJ3pFF29sDigupFx2Cg/editing/images
+
 ## Hi there 👋, My name is Talha
 ### Web Developer 
 
