@@ -1,7 +1,7 @@
-(https://studio.youtube.com/channel/UCO-gGJ3pFF29sDigupFx2Cg/editing/images)
-### Hi there 👋, My name is Talha
-#### Web Developer 
-![Web Developer ]
+https://studio.youtube.com/channel/UCO-gGJ3pFF29sDigupFx2Cg/editing/images
+## Hi there 👋, My name is Talha
+### Web Developer 
+
 
 Hi I am Abdullah Muhammad Talha. I Read in Class Seven. I am 12 Years Old. And I am Learning Web Development And UI/UX Design.
 
