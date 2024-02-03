@@ -3,11 +3,7 @@
 <h3 align="center">Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.1448711260.1706832000&semt=ais">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amtalha&label=Profile%20views&color=0e75b6&style=flat" alt="amtalha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amtalha" alt="amtalha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **My Website**
 
