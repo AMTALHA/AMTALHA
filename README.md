@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amtalha&label=Profile%20views&color=0e75b6&style=flat" alt="amtalha" /> </p>
 
