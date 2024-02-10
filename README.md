@@ -1,4 +1,4 @@
-<img src="This PC/New Volume (D:)/Talha/Others/Banner" alt="">
+<img src="https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-6/427595227_122094724886218821_2058583620296745614_n.png?_nc_cat=103&ccb=1-7&_nc_sid=783fdb&_nc_ohc=2uSfl0zFsPYAX9w0Kdu&_nc_ht=scontent.fdac152-1.fna&oh=00_AfAdgQvefkwr5juWQpU10Bqwk0v0srQ677mR30IvjlZyEQ&oe=65CBD9AD" alt="Banner">
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.1448711260.1706832000&semt=ais">
