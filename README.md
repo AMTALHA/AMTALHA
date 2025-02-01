@@ -1,4 +1,4 @@
-<img src="https://www.imghippo.com/i/tWv8628CaE.png" alt="Banner">
+<img src="https://github.com/design-and-code" alt="Banner">
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">Web Developer</h3>
 
